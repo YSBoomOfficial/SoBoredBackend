@@ -1,4 +1,5 @@
 Packages
+Package.resolved
 .build
 xcuserdata
 *.xcodeproj
@@ -8,5 +9,5 @@ db.sqlite
 .swiftpm
 .env
 .env.*
-! .env.example
+!.env.example
 .vscode
